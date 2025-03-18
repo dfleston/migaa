@@ -11,9 +11,9 @@ export default function VideoTour() {
               <span className="font-serif text-sm uppercase tracking-[0.3em] text-gold">Virtual Tour</span>
             </div>
           </div>
-          <h2 className="mb-6 font-display text-4xl font-medium text-gray-900 md:text-5xl">Experience the Villa</h2>
+          <h2 className="mb-6 font-display text-4xl font-medium text-gray-900 md:text-5xl">Experience sumptous Golf in tropical climate </h2>
           <p className="mx-auto max-w-3xl font-serif text-lg leading-relaxed text-gray-600">
-            Take a virtual tour of this magnificent property and experience the luxury firsthand.
+            Take a virtual tour of this magnificent development and experience the luxury firsthand.
           </p>
         </div>
 
